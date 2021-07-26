@@ -1,4 +1,4 @@
-module github.com/mattn/go-tflite
+module github.com/danielinspring/go-tflite
 
 go 1.13
 
