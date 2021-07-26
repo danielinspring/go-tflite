@@ -5,7 +5,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/mattn/go-tflite"
+	"github.com/danielinspring/go-tflite"
 )
 
 func main() {

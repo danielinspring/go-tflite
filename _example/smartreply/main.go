@@ -11,9 +11,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/mattn/go-tflite"
-	customOps "github.com/mattn/go-tflite/_example/smartreply/ops"
-	builtinOps "github.com/mattn/go-tflite/ops"
+	"github.com/danielinspring/go-tflite"
+	customOps "github.com/danielinspring/go-tflite/_example/smartreply/ops"
+	builtinOps "github.com/danielinspring/go-tflite/ops"
 )
 
 type result struct {

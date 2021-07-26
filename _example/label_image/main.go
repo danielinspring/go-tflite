@@ -10,7 +10,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/mattn/go-tflite"
+	"github.com/danielinspring/go-tflite"
 	"github.com/nfnt/resize"
 )
 

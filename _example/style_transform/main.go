@@ -12,8 +12,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/danielinspring/go-tflite"
 	"github.com/disintegration/imaging"
-	"github.com/mattn/go-tflite"
 )
 
 func predict(img image.Image, mpredict string) ([]float32, error) {

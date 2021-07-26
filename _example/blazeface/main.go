@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mattn/go-tflite"
+	"github.com/danielinspring/go-tflite"
 
 	"gocv.io/x/gocv"
 )

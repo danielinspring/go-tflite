@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/mattn/go-tflite/delegates"
+	"github.com/danielinspring/go-tflite/delegates"
 )
 
 const (

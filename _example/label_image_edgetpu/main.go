@@ -10,8 +10,8 @@ import (
 	"os"
 	"sort"
 
-	"github.com/mattn/go-tflite"
-	"github.com/mattn/go-tflite/delegates/edgetpu"
+	"github.com/danielinspring/go-tflite"
+	"github.com/danielinspring/go-tflite/delegates/edgetpu"
 	"github.com/nfnt/resize"
 )
 

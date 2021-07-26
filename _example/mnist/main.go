@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mattn/go-tflite"
+	"github.com/danielinspring/go-tflite"
 	"github.com/nfnt/resize"
 )
 
